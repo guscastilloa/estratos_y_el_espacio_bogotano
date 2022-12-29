@@ -1,6 +1,8 @@
 # Información de proyecto "Yo por allá no voy"
 
-Estudio de la relación entre la estratificación inmobiliaria en Bogotá y la oferta de bienes y servicios. Los mapas presentados en este trabajo tienen una densidad de Kernel que se puede replicar mediante los scripts [Scripts](/Scripts/2-kdensity/arcpy_kdensity.py).
+Proyecto disponible en el [este StoryMap](https://storymaps.arcgis.com/stories/589b1e79e9b5454fbd1f0534d548d198)
+
+Estudio descriptivo de la relación entre la estratificación inmobiliaria en Bogotá y la oferta de bienes y servicios. Los mapas presentados en este trabajo tienen una densidad de Kernel que se puede replicar mediante los scripts [Scripts](/Scripts/2-kdensity/arcpy_kdensity.py).
  
 # Datos
 Los datos utilizados fueron [tomados de OpenStreetMap](https://download.geofabrik.de/south-america/colombia.html#) y se pueden descargar en [este enlace](https://download.geofabrik.de/south-america/colombia-latest-free.shp.zip). Se agregaron diferentes puntos de interés utilizando la siguiente categorización:
